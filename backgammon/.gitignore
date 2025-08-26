@@ -1,15 +1,1 @@
 __pycache__/
-*.pyc
-*.pyo
-*.DS_Store
-.env
-.venv
-.coverage
-htmlcov/
-dist/
-build/
-.cache/
-.pytest_cache/
-.mypy_cache/
-.pyre/
-.vscode/
